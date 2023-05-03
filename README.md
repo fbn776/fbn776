@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I'm currently trying to be a better programmer 🙂<br>Ask me about Js and python<br>I'm currently learning Kotlin
+I'm currently trying to be a better programmer 🙂<br>Ask me about Js and python<br>Currently learning Kotlin
 
 ## 🌐 Socials:
 
