@@ -1,7 +1,9 @@
 # 💫 About Me:
 
-I'm currently trying to be a better programmer 🙂<br>
-Doing some exciting stuffs!!
+😃 Working on some exciting projects!
+📚 I'm currently learning Kotlin.
+📲 Ask me about frontend, JS and Python.
+
 
 ## 🌐 Socials:
 
