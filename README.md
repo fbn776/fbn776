@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-😃 Working on some exciting projects!
-📚 I'm currently learning Kotlin.
+😃 Working on some exciting projects! <br>
+📚 I'm currently learning Kotlin. <br>
 📲 Ask me about frontend, JS and Python.
 
 
