@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some very exciting projects<br>🌱 I’m currently learning android development<br>💬 Ask me about frontend and python
+🔭 I’m currently working on some very exciting projects<br>🌱 I’m currently learning android development<br>💬 Ask me about frontend development and python
 
 
 ## 🌐 Socials:
@@ -19,3 +19,4 @@
 [![](https://visitcount.itsvg.in/api?id=fbn776&icon=0&color=8)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- fbn776 -->
