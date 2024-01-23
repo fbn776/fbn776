@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some very exciting projects<br>🌱 I’m currently learning android development<br>💬 Ask me about frontend development and python
+🔭 I’m currently working on some very exciting projects<br>🌱 I’m currently learning backend<br>💬 Ask me about ts, js and python.
 
 
 ## 🌐 Socials:
