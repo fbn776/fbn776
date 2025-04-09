@@ -5,7 +5,7 @@
 # <img src="./assets/rocket.gif" width="28px"> About Me:
 
 🔭 I’m currently working on some very exciting projects<br>
-🌱 I’m currently learning backend<br>
+🌱 I’m currently learning go lang<br>
 💬 Ask me about ts, js and python.
 
 # <img src="./assets/crystal-ball.gif" width="32px"/> Socials
