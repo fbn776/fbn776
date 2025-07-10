@@ -24,9 +24,10 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
+# Blogs
+- [I built a real-time multiplayer Bingo game with WebSockets](https://fbn776.hashnode.dev/how-i-built-a-multiplayer-bingo-game)
 
-[![](https://visitcount.itsvg.in/api?id=fbn776&icon=0&color=8)](https://visitcount.itsvg.in)
+---
 
 <img src="./assets/cat-and-mouse-line.gif" width="100%" alt="Cat and mouse">
 <!-- fbn776 -->
