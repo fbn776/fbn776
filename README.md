@@ -20,12 +20,31 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fbn776&theme=dark&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fbn776&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
+# <img src="./assets/scientist.gif" width="28px"> Projects
+
+- [**AssistScript** - A simple and not very useful scripting language inspired by Lisp.](https://github.com/fbn776/AssistScript)
+- [**Inkra** - A self-hosted, privacy-first PDF signing platform that lets clients sign contracts directly in the browser. No downloads, no third-party tools.](https://github.com/fbn776/Inkra)
+- [**Checkio** - A tool that not only tests your code but also suggests improvements and error fixes, making lab evaluations smarter and faster.](https://github.com/fbn776/Checkio)
+- [**Multiplayer Bingo** - A fun and interactive multiplayer Bingo game where you can play with a friend, no matter where you are.](https://github.com/fbn776/Bingo)
+- [**SUNVA AI** - Seamless conversation loop for the deaf - People+AI](https://github.com/PeoplePlusAI/sunva)
+- [**Cave Copter** - A simple js game, where you have to surive with a helicopter in a cave](https://github.com/fbn776/copter)
+- [**Matrix Calculator** - A calculator for matrices. One of my first projects - I code this on a mobile](https://github.com/fbn776/matrix-calculator)
+- [**Assistant** - A chatbot like application; but with a custom command line language backed up by JavaScript](https://github.com/fbn776/Assistant)
+- [**Portfolio** - My personal portfolio website.](https://github.com/fbn776/portfolio)
+- [**Sine wave sim** - A demo of sine wave super position](https://github.com/fbn776/sine-waves)
+- [**UniMate** - A go-to companion for navigating college life smoothly and effortlessly](https://github.com/fbn776/UniMate)
+- [**AssistScript Online Runner** - An online code runner for AssistScript](https://github.com/fbn776/AssistScript-editor)
+- [**RITCompass** - Provides clear, easy-to-follow steps to help you navigate college life at RIT](https://github.com/fbn776/RITCompass-backend)
+- [**Falling Sand** - A celluar automata, falling sand simulation](https://github.com/fbn776/falling-sand)
+
+# <img src="./assets/truck.gif" width="28px"> Blogs
+- [The Tech behind RITU 2025 - RIT's techno cultural fest](https://fbn776.hashnode.dev/tech-behind-ritu)
+- [I built a real-time multiplayer Bingo game with WebSockets](https://fbn776.hashnode.dev/how-i-built-a-multiplayer-bingo-game)
+
+
 ### <img src="./assets/writing-hand.gif" width="28px"> Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-# Blogs
-- [I built a real-time multiplayer Bingo game with WebSockets](https://fbn776.hashnode.dev/how-i-built-a-multiplayer-bingo-game)
 
 ---
 
